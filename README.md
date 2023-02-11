@@ -147,7 +147,7 @@ Os principais campos e tipos variam conforme a documentação/especificação do
 
 **Relacionamento das entidades:**
 
-* Unidade possui relacionamento **1:N **com Curso.
+* Unidade possui relacionamento **1:N** com Curso.
 * Turma possui relacionamento  **N:1**  com Curso.
 * Aluno possui relacionamento  **1:N** com Turma.
 * Aula possui relacionamento **N:1** com Curso.
