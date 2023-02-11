@@ -154,5 +154,5 @@ Os principais campos e tipos variam conforme a documentação/especificação do
 
 
 ---
-**Banco de Dados | Projeto Individual - Módulo 4
-Prazo de Entrega: 10/02**
+**Banco de Dados | Projeto Individual - Módulo 4**
+Prazo de Entrega: 10/02
